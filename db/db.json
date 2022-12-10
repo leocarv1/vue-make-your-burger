@@ -79,68 +79,16 @@
   ],
   "burgers": [
     {
-      "nome": "Jonas",
+      "nome": "João",
       "carne": "Alcatra",
       "pao": "Italiano Branco",
       "opcionais": [
         "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "Leo",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
         "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Leo",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Salame",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": "Leo",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Bacon",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
-      "nome": "Leo",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
         "Pepino"
       ],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
-      "nome": "Leo",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 6
+      "status": "Finalizado",
+      "id": 7
     }
   ]
 }
