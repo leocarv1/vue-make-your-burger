@@ -35,6 +35,10 @@
         </div>
         
     </div>
+
+    <div>
+        <p>Programação é uma delicia!</p>
+    </div>
 </template>
 
 
